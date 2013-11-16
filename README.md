@@ -16,6 +16,8 @@ $ ipython notebook
 
 From this web view, you can open any `.ipynb` notebook file saved on your local machine.
 
+Either download the notebook file ([NumPy.ipynb](https://raw.github.com/ChimeraCoder/intro-to-numpy-and-scipy/master/NumPy.ipynb)) directly, or clone this repository, and simply open the file in this web view.
+
 
 #####Acknowledgements
 
