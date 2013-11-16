@@ -6,9 +6,9 @@ This notebook is from a talk that was given on Nov. 14, 2013 at Columbia Univers
 
 ### Installation and Use
 
-If you have IPython installed, you likely already have the IPython Notebook installed as well.
+If you have [IPython](http://ipython.org/) installed, you likely already have the [IPython Notebook](http://ipython.org/notebook.html)  installed as well.
 
-Open the IPython notebook web view
+Open the IPython notebook web view:
 
 ````sh
 $ ipython notebook
