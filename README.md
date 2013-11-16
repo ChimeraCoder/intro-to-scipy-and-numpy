@@ -22,6 +22,13 @@ From this web view, you can open any `.ipynb` notebook file saved on your local 
 Either download the notebook file ([NumPy.ipynb](https://raw.github.com/ChimeraCoder/intro-to-numpy-and-scipy/master/NumPy.ipynb)) directly, or clone this repository, and simply open the file in this web view.
 
 
+#### Preview
+
+A static (non-interactive) preview is available at http://nbviewer.ipython.org/7505630.
+
+However, as this preview does include any of the diagrams, images, or output, you probably just want to download this and run it yourself.
+
+
 #####Acknowledgements
 
 Special thanks to Anthony Foglia, who provided Powerpoint slides with the two memory layout diagrams, as well as some of the early NumPy examples.
